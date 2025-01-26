@@ -392,9 +392,9 @@
       "location": "[parameters('location')]",
       "tags": "[parameters('tags')]",
       "sku": {
-        "name": "P1v2",
+        "name": "P1v3",
         "capacity": 1,
-        "tier": "PremiumV2"
+        "tier": "PremiumV3"
       },
       "properties": {
         "reserved": true
